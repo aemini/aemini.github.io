@@ -156,7 +156,7 @@ $(function () {
 	*/
 
 	$('.lnks').on('click', '.lnk.discover', function(){
-		$('.top-menu a[href="#contacts-card"]').trigger('click');
+		$('.top-menu a[href="#pgpkey-card"]').trigger('click');
 	});
 
 
